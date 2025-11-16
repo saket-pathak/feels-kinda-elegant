@@ -62,13 +62,32 @@ With soft, readable light modes and deep, immersive dark modes, this pack enhanc
 
 | Serene Mint | Sattva | Matte Saffron |
 |-------------|--------|----------------|
-| ![](assets/screenshots/serene-mint.png) | ![](assets/screenshots/sattva.png) | ![](assets/screenshots/matte-saffron.png) |
+| ![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/serene-mint.png) | ![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/sattva.png) | ![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/matte-saffron.png) |
 
 | Lotus Blush |
 |-------------|
-| ![](assets/screenshots/lotus-blush.png) |
+| ![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/lotus-blush.png) |
 
 ---
+
+### 🌙 Dark Mode
+
+| Azuryn | Blue Ominence | Emerald Eclipse |
+|--------|----------------|------------------|
+| ![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/azuryn.png) | ![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/blue-ominence.png) | ![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/emerald-eclipse.png) |
+
+| Verdant Onyx |
+|--------------|
+| ![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/verdant-onyx.png) |
+
+---
+
+## 🎞 Animated Theme Carousel
+
+> Fast visual demonstration of all variants
+
+![](https://raw.githubusercontent.com/saket-pathak/feels-kinda-elegant/main/assets/screenshots/carousel.gif)
+
 
 ### 🌙 Dark Mode
 
