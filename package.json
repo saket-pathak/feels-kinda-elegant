@@ -4,7 +4,15 @@
   "publisher": "funinnate",
   "icon": "images/logo.png",
   "description": "A premium 8-theme pack featuring soft light & deep dark color palettes focusing on focus-driven aesthetics and emotional comfort.",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saket-pathak/feels-kinda-elegant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saket-pathak/feels-kinda-elegant/issues"
+  },
+  "homepage": "https://github.com/saket-pathak/feels-kinda-elegant",
   "engines": {
     "vscode": "^1.105.0"
   },
@@ -33,7 +41,6 @@
         "uiTheme": "vs",
         "path": "./themes/Light Themes/lotus-blush-theme.json"
       },
-
       {
         "label": "Azuryn",
         "uiTheme": "vs-dark",
