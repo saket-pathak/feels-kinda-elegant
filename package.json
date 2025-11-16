@@ -1,0 +1,59 @@
+{
+  "name": "feels-kinda-elegant",
+  "displayName": "Feels Kinda Elegant",
+  "publisher": "funinnate",
+  "icon": "images/logo.png",
+  "description": "A premium 8-theme pack featuring soft light & deep dark color palettes focusing on focus-driven aesthetics and emotional comfort.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Serene Mint",
+        "uiTheme": "vs",
+        "path": "./themes/Light Themes/serene-mint-theme.json"
+      },
+      {
+        "label": "Sattva",
+        "uiTheme": "vs",
+        "path": "./themes/Light Themes/sattva-theme.json"
+      },
+      {
+        "label": "Matte Saffron",
+        "uiTheme": "vs",
+        "path": "./themes/Light Themes/matte-saffron-theme.json"
+      },
+      {
+        "label": "Lotus Blush",
+        "uiTheme": "vs",
+        "path": "./themes/Light Themes/lotus-blush-theme.json"
+      },
+
+      {
+        "label": "Azuryn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Themes/azuryn-theme.json"
+      },
+      {
+        "label": "Blue Ominence",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Themes/blue-ominence-theme.json"
+      },
+      {
+        "label": "Emerald Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Themes/emerald-eclipse-theme.json"
+      },
+      {
+        "label": "Verdant Onyx",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Themes/verdant-onyx-theme.json"
+      }
+    ]
+  }
+}
