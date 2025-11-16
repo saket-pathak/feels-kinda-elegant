@@ -4,7 +4,7 @@
   "publisher": "funinnate",
   "icon": "images/logo.png",
   "description": "A premium 8-theme pack featuring soft light & deep dark color palettes focusing on focus-driven aesthetics and emotional comfort.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.105.0"
   },
